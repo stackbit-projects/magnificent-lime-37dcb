@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Next level assistant for Scrum
-    subtitle: Increase happines and overall satisfaction
+    subtitle: Increase happiness and overall satisfaction
     actions:
       - label: Learn More
         url: /features
