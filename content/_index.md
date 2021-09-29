@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: 'images/Growth Quadrant-1,632,945,178,620.png'
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
